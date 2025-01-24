@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=MadExperience)](https://git.io/typing-svg)
-
-<h2 align="left"></h2>
+<h2 align="center">Hey there!  I'm a full-stack developer also a Game Dev using Roblox Studio, Overdare Studio and Unity Engine.</h2>
 
 ###
 
@@ -40,3 +38,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
 </div>
+
+###
+
+<h2 align="left"></h2>
+
+###
+
+<img src="https://raw.githubusercontent.com/madexperience/madexperience/output/snake.svg" alt="Snake animation" />
+
+###
