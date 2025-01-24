@@ -1,3 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Roblox+%2F+Overdare+%2F+Unity+Game+Dev)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=MadExperience)](https://git.io/typing-svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madexperience)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=madexperience&show_icons=true&theme=radical)
+### Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-th3shadowbroker.vercel.app/api?username=madexperience&count_private=true&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats-th3shadowbroker.vercel.app/api/top-langs/?username=madexperience&theme=dark&layout=compact&langs_count=6" />
+</div>
