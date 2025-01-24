@@ -43,8 +43,4 @@
 
 <h2 align="left"></h2>
 
-###
-
 <img src="https://raw.githubusercontent.com/madexperience/madexperience/output/snake.svg" alt="Snake animation" />
-
-###
