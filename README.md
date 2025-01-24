@@ -38,9 +38,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
 </div>
-
-###
-
-<h2 align="left"></h2>
-
-<img src="https://raw.githubusercontent.com/madexperience/madexperience/output/snake.svg" alt="Snake animation" />
