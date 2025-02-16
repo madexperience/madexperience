@@ -1,4 +1,4 @@
-<h2 align="center">Hey there!  I'm a full-stack developer also a Game Dev using Roblox Studio, Overdare Studio and Unity Engine.</h2>
+<h2 align="center">게임 개발은 내 인생의 낙.</h2>
 
 ###
 
