@@ -1,4 +1,6 @@
-<h2 align="center">게임 개발이 유일한 내 인생의 낙</h2>
+<h2 style="text-align:center;">
+  안녕하세요 <a href="http://versework.co.kr/" target="_blank" rel="noopener noreferrer">벌스워크</a> 소속 개발자입니다
+</h2>
 
 ###
 
