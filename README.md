@@ -1,4 +1,4 @@
-<h2 align="center"> 안녕하세요 <a href="http://versework.co.kr/" target="_blank" rel="noopener noreferrer">벌스워크</a> 소속 개발자입니다 </h2>
+<h2 align="center"> 안녕하세요 <a href="http://versework.co.kr/" target="_blank" rel="noopener noreferrer">벌스워크</a> 소속 게임 개발자입니다 </h2>
 
 ###
 
